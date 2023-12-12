@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📝 Curriculum:
 
-💼 Portafolio: [sa-porf-6904cb.netlify.app](https://sa-porf-6904cb.netlify.app/)
+💼 Portafolio: [samuel-porfolio.netlify.app](https://samuel-porfolio.netlify.app/)
 
 📫 Contacto: samuelramirezc0@gmail.com
 <!--Intro end-->
