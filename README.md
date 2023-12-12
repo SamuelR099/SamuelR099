@@ -24,13 +24,17 @@ Here are some ideas to get you started:
 <br>
  <h2 align="left"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> Sobre Mi</h2>
  <p align="left">
-🎓 TECNOLOGO EN AUTOMATIZACION INDUSTRIAL
+🎓 Tecnologo en Automatización Industrial
+   
+🌱 Actualmente estoy aprendiendo C++ y base de datos 
+
+⚡ 
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Curriculum
 
 📫 Contacto: samuelramirezc0@gmail.com
 <!--Intro end-->
