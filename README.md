@@ -29,6 +29,8 @@ Here are some ideas to get you started:
    
 🌱 Actualmente estoy aprendiendo C++ y SQL
 
+😄 Proximamente proyectos en C++
+
 ⚡ Tengo gran interes en el desarrollo de proyectos de robotica y ciberseguridad
 
 💻 Metas: Ser desarrollador de software 
