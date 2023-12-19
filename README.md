@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    
 🎓 Tecnologo en Automatización Industrial
    
-🌱 Actualmente estoy aprendiendo C++ y SQL
+🌱 Actualmente estoy aprendiendo MongoDB y SQL
 
 😄 Proximamente proyectos en C++
 
