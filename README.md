@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 💼 Portafolio: [samuel-porfolio.netlify.app](https://samuel-porfolio.netlify.app/)
 
-📫 Contacto: samuelramirezc0@gmail.com
+📫 Contacto: www.linkedin.com/in/samuel-ramirez-b99851208
+
 <!--Intro end-->
   </p>
 <br>
