@@ -27,9 +27,9 @@ Here are some ideas to get you started:
    
 🎓 Tecnologo en Automatización Industrial
    
-🌱 Actualmente estoy aprendiendo MongoDB y SQL
+🌱 Actualmente estoy aprendiendo MongoDB
 
-😄 Proximamente proyectos en C++
+😄 Te invito a que le eches un vistazo a los proyectos en C++ y BD que he realizado 
 
 ⚡ Tengo gran interes en el desarrollo de proyectos de robotica y ciberseguridad
 
