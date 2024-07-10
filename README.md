@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ⚡ Tengo gran interes en el desarrollo de proyectos de robotica y ciberseguridad
 
-💻 Metas: Ser desarrollador de software 
+💻 Metas: Formar parte de un equipo de trabajo en la industria TI 
 
 📝 Curriculum:
 
