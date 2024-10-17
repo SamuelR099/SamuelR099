@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    
 🎓 Tecnologo en Automatización Industrial
    
-🌱 Actualmente estoy aprendiendo Java, Docker y Inglés
+🌱 Actualmente estoy aprendiendo Java con SprinBoot, ApisRest y Inglés
 
 😄 Te invito a que le eches un vistazo a los proyectos en C++ y BD que he realizado 
 
