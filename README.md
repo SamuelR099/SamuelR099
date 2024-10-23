@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
- <h2 align="left"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> Sobre Mi</h2>
+ <h2 align="left"><picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 40px></picture> Sobre Mi</h2>
  <p align="left">
    
 🎓 Tecnologo en Automatización Industrial
