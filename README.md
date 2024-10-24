@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 💻 Metas: Formar parte de un equipo de trabajo en la industria TI 
 
-📝 Curriculum: https://drive.google.com/file/d/1tFaD_xyKSlflTq47uwwJZ_faSy_IFTZI/view?usp=sharing
+📝 Curriculum:https://drive.google.com/file/d/15nOtExxM8yrDa5ia4Z7NEiCmeNPDLjJa/view?usp=sharing
 
 💼 Portafolio: [samuel-porfolio.netlify.app](https://samuel-porfolio.netlify.app/)
 
